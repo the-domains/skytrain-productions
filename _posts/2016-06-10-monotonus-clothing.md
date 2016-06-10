@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: MONOTONUS CLOTHING
-datePublished: '2016-06-10T22:33:34.628Z'
-dateModified: '2016-06-10T22:32:07.621Z'
+datePublished: '2016-06-10T22:33:50.810Z'
+dateModified: '2016-06-10T22:33:36.332Z'
 title: ''
 author:
   - name: ''
@@ -19,7 +19,6 @@ url: monotonus-clothing/index.html
 _type: Article
 
 ---
-HOODIE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78d857f1-d8c4-4bd3-9d30-5bef037c270a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04229973-cc2b-49b8-bd16-a487de963521.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21833a96-0962-4ad1-a88f-09e9ac01710c.jpg)
