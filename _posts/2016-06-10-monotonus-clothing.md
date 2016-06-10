@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: MONOTONUS CLOTHING
-datePublished: '2016-06-10T22:32:04.586Z'
-dateModified: '2016-06-10T22:30:46.001Z'
+datePublished: '2016-06-10T22:33:34.628Z'
+dateModified: '2016-06-10T22:32:07.621Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-06-10-monotonus-clothing.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-10-monotonus-clothing.md
 url: monotonus-clothing/index.html
 _type: Article
 
