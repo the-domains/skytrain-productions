@@ -1,0 +1,28 @@
+name: SKYTRAIN PRODUCTIONS
+favicon: null
+layout_spectrum: 0.7599005254451185
+typography_spectrum: 0.04655659827403724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5878852903842926
+  lightness: 0.40566049446351826
+  saturation: 0.11970713385380805
+  rhythmicContrast: 0.39636345067992806
+purpose: []
